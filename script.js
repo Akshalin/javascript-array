@@ -50,3 +50,7 @@ console.log(list);
 let arrays=[1,2,3,4,5];
 console.log(arrays.slice(0,3));
 
+//Merging the arrays
+let arr1=[9,3,4,5];
+let arr2=[8,19,6,10];
+console.log(arr1.concat(arr2));
