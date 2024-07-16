@@ -1,6 +1,6 @@
 //Array creation
 let fruits=["apple","orange","mango","pineapple","papaya"];
-document.write(fruits,"<br>");
+document.write('fruits=',fruits,"<br>");
 
 //Adding elements in array
 //push method
