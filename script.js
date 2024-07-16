@@ -1,4 +1,4 @@
-//Array creation
+//Array creation and initialization
 let fruits=["apple","orange","mango","pineapple","papaya"];
 document.write('fruits=',fruits,"<br>");
 
